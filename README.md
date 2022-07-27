@@ -2,10 +2,15 @@
 
 - 🌱 Atualmente estou estudando HTML, CSS e JavaScript
 
-<div align="center">
-  <a href="https://github.com/MatheusMGL">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusMGL&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMGL&layout=compact&langs_count=7&theme=radical"/>
+<div>
+  <p align=center>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source" target="_blank">
+    <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusMGL&show_icons=true&theme=radical">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+  <img height=165 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMGL&layout=compact&theme=radical" />
+  </a>
+</p>
 </div>
   
   <div style="display: inline_block"><br>
