@@ -1,6 +1,8 @@
 ## Olá, me chamo Matheus 👋
 
-- 🌱 Atualmente estou estudando HTML, CSS e JavaScript
+- 💻 Estou cursando Sistemas de Informação;
+- 📘 Atualmente estou estudando as linguagens HTML, CSS e JavaScript;
+- 🌱 Front-end Web Development
 
 <div>
   <p align=center>
