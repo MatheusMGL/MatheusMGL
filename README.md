@@ -4,6 +4,8 @@
 - 📘 Atualmente estou estudando as linguagens HTML, CSS e JavaScript;
 - 🌎 Front-end Web Development.
 
+<br>
+
 <div>
   <p align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source" target="_blank">
@@ -15,6 +17,8 @@
 </p>
 </div>
 
+<br>
+
 ## 🚀 Tecnologias 
   
   <div style="display: inline_block"><br>
@@ -23,8 +27,12 @@
   <img align="center" alt="Matheus-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
                              
 </div>
+
+<br>
   
   ## 📬 Contato
+  
+<br>
  
 <div> 
   <a href="https://contate.me/MatheusMGL" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
