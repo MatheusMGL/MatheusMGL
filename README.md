@@ -2,7 +2,7 @@
 
 - 💻 Estou cursando Sistemas de Informação;
 - 📘 Atualmente estou estudando as linguagens HTML, CSS e JavaScript;
-- 🌎 Front-end Web Developmen
+- 🌎 Front-end Web Development
 
 <br>
 
