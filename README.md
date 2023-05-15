@@ -22,7 +22,7 @@
 
 <br>
 
-## 🚀 Tecnologias 
+## 🚀 Technologies 
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
@@ -33,7 +33,7 @@
 
 <br>
   
-  ## 📬 Contato
+  ## 📬 Contact
   
 <br>
  
