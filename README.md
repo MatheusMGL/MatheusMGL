@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=50&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Matheus+Gomes;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-- 💻 Estou cursando Sistemas de Informação;
+- 💻 Bachelor's degree in Information Systems.;
 - 📘 I am currently studying the HTML, CSS, and JavaScript languages;
 - 🌎 Front-end Web Development
 
