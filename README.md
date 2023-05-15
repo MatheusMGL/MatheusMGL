@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=50&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Matheus+Gomes;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<br>
 
 - 💻 Estou cursando Sistemas de Informação;
 - 📘 Atualmente estou estudando as linguagens HTML, CSS e JavaScript;
