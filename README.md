@@ -14,10 +14,10 @@
 <div>
   <p align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source" target="_blank">
-    <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusMGL&show_icons=true&theme=synthwave">
+    <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusMGL&show_icons=true&theme=merko">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img height=165 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMGL&layout=compact&theme=synthwave" />
+  <img height=165 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMGL&layout=compact&theme=merko" />
   </a>
 </p>
 </div>
