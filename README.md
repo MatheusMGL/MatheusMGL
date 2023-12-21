@@ -5,7 +5,7 @@
 
 <br>
 
-- 💻 Bachelor's degree in Information Systems.;
+- 💻 Bachelor's degree in Information Systems;
 - 📘 I am currently studying the HTML, CSS, and JavaScript languages;
 - 🌎 Front-end Web Development
 
